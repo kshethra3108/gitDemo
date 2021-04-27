@@ -1,0 +1,144 @@
+22:59:24.169 [main] INFO  E2E.Assert_check - Driver intialized
+22:59:25.348 [main] INFO  E2E.Assert_check - Driver intialized
+22:59:28.616 [main] INFO  E2E.Assert_check - Successfully loaded
+22:59:28.762 [main] INFO  E2E.Assert_check - Successfully displayed
+22:59:29.778 [main] INFO  E2E.Assert_check - Successfully SIgned in
+22:59:32.952 [main] INFO  E2E.Assert_check - Url triggered
+22:59:33.025 [main] INFO  E2E.Assert_check - It is successfully displayed
+23:10:25.103 [main] INFO  E2E.Assert_check - Driver intialized
+23:10:26.315 [main] INFO  E2E.Login - Driver intialized
+23:10:29.264 [main] INFO  E2E.Login - Successfully loaded
+23:10:30.483 [main] INFO  E2E.Login - Successfully SIgned in
+23:10:33.258 [main] INFO  E2E.Assert_check - Url triggered
+23:10:33.356 [main] INFO  E2E.Assert_check - It is successfully displayed
+01:06:36.654 [main] INFO  E2E.Login - Driver intialized
+01:06:41.121 [main] INFO  E2E.Login - Successfully loaded
+01:06:42.338 [main] INFO  E2E.Login - Successfully SIgned in
+01:06:47.706 [main] INFO  E2E.Assert_check - Driver intialized
+01:06:52.208 [main] INFO  E2E.Assert_check - Url triggered
+01:06:52.294 [main] INFO  E2E.Assert_check - It is successfully displayed
+01:14:19.617 [TestNG] INFO  E2E.Login - Driver intialized
+01:14:19.627 [TestNG] INFO  E2E.Assert_check - Driver intialized
+01:14:24.796 [TestNG] INFO  E2E.Assert_check - Url triggered
+01:14:24.888 [TestNG] INFO  E2E.Login - Successfully loaded
+01:14:25.111 [TestNG] INFO  E2E.Assert_check - It is successfully displayed
+01:14:26.280 [TestNG] INFO  E2E.Login - Successfully SIgned in
+02:23:25.926 [TestNG] INFO  E2E.Login - Driver intialized
+02:23:25.948 [TestNG] INFO  E2E.Assert_check - Driver intialized
+02:23:33.452 [TestNG] INFO  E2E.Assert_check - Url triggered
+02:23:33.576 [TestNG] INFO  E2E.Assert_check - It is successfully displayed
+02:23:34.068 [TestNG] INFO  E2E.Login - Successfully loaded
+02:23:35.596 [TestNG] INFO  E2E.Login - Successfully SIgned in
+02:26:15.011 [main] INFO  E2E.Assert_check - Driver intialized
+02:26:22.538 [main] INFO  E2E.Assert_check - Url triggered
+02:26:22.654 [main] INFO  E2E.Assert_check - It is successfully displayed
+02:44:59.402 [TestNG] INFO  E2E.Login - Driver intialized
+02:44:59.402 [TestNG] INFO  E2E.Assert_check - Driver intialized
+02:45:05.697 [TestNG] INFO  E2E.Login - Successfully loaded
+02:45:06.522 [TestNG] INFO  E2E.Assert_check - Url triggered
+02:45:06.745 [TestNG] INFO  E2E.Assert_check - It is successfully displayed
+02:45:07.354 [TestNG] INFO  E2E.Login - Successfully SIgned in
+02:50:25.603 [main] INFO  E2E.Assert_check - Driver intialized
+02:50:31.602 [main] INFO  E2E.Assert_check - Url triggered
+02:50:31.700 [main] INFO  E2E.Assert_check - It is successfully displayed
+02:52:35.908 [main] INFO  E2E.Assert_check - Driver intialized
+02:52:41.440 [main] INFO  E2E.Assert_check - Url triggered
+02:52:41.554 [main] INFO  E2E.Assert_check - It is successfully displayed
+02:54:54.965 [main] INFO  E2E.Assert_check - Driver intialized
+02:55:01.176 [main] INFO  E2E.Assert_check - Url triggered
+02:55:01.349 [main] INFO  E2E.Assert_check - It is successfully displayed
+03:28:49.792 [main] INFO  E2E.Login - Driver intialized
+03:28:58.860 [main] INFO  E2E.Login - Successfully loaded
+03:29:00.724 [main] INFO  E2E.Login - Successfully SIgned in
+03:29:02.134 [main] INFO  E2E.Assert_check - Driver intialized
+03:29:10.621 [main] INFO  E2E.Assert_check - Url triggered
+03:29:10.672 [main] INFO  E2E.Assert_check - It is successfully displayed
+03:59:01.224 [TestNG] INFO  E2E.Login - Driver intialized
+03:59:01.224 [TestNG] INFO  E2E.Assert_check - Driver intialized
+03:59:11.783 [TestNG] INFO  E2E.Assert_check - Url triggered
+03:59:11.912 [TestNG] INFO  E2E.Assert_check - It is successfully displayed
+03:59:12.292 [TestNG] INFO  E2E.Login - Successfully loaded
+03:59:14.609 [TestNG] INFO  E2E.Login - Successfully SIgned in
+01:07:47.449 [TestNG] INFO  E2E.Assert_check - Driver intialized
+01:07:47.449 [TestNG] INFO  E2E.Login - Driver intialized
+01:07:50.243 [TestNG] INFO  E2E.Login - Successfully loaded
+01:07:50.463 [TestNG] INFO  E2E.Assert_check - Url triggered
+01:07:50.661 [TestNG] INFO  E2E.Assert_check - It is successfully displayed
+01:07:51.856 [TestNG] INFO  E2E.Login - Successfully SIgned in
+09:11:23.185 [TestNG] INFO  E2E.Login - Driver intialized
+09:11:23.185 [TestNG] INFO  E2E.Assert_check - Driver intialized
+09:11:25.797 [TestNG] INFO  E2E.Assert_check - Url triggered
+09:11:25.882 [TestNG] INFO  E2E.Login - Successfully loaded
+09:11:26.196 [TestNG] INFO  E2E.Assert_check - It is successfully displayed
+09:11:27.109 [TestNG] INFO  E2E.Login - Successfully SIgned in
+09:11:54.336 [TestNG] INFO  E2E.Assert_check - Driver intialized
+09:11:54.336 [TestNG] INFO  E2E.Login - Driver intialized
+09:11:56.916 [TestNG] INFO  E2E.Login - Successfully loaded
+09:11:56.995 [TestNG] INFO  E2E.Assert_check - Url triggered
+09:11:57.202 [TestNG] INFO  E2E.Assert_check - It is successfully displayed
+09:11:58.074 [TestNG] INFO  E2E.Login - Successfully SIgned in
+23:11:19.328 [main] INFO  E2E.Login - Driver intialized
+23:11:21.968 [main] INFO  E2E.Login - Successfully loaded
+23:11:23.292 [main] INFO  E2E.Login - Successfully SIgned in
+23:12:12.039 [main] INFO  E2E.Login - Driver intialized
+23:12:14.861 [main] INFO  E2E.Login - Successfully loaded
+23:12:16.567 [main] INFO  E2E.Login - Successfully SIgned in
+23:40:18.838 [main] INFO  StepDefinition.Stepdefinition - Driver intialized
+23:40:23.095 [main] INFO  StepDefinition.Stepdefinition - Successfully loaded
+23:44:32.118 [main] INFO  StepDefinition.Stepdefinition - Driver intialized
+23:44:36.281 [main] INFO  StepDefinition.Stepdefinition - Successfully loaded
+23:47:01.883 [main] INFO  StepDefinition.Stepdefinition - Driver intialized
+23:47:05.978 [main] INFO  StepDefinition.Stepdefinition - Successfully loaded
+23:47:59.219 [main] INFO  StepDefinition.Stepdefinition - Driver intialized
+23:48:03.283 [main] INFO  StepDefinition.Stepdefinition - Successfully loaded
+23:48:06.406 [main] INFO  StepDefinition.Stepdefinition - Successfully navigated to page and entered details
+23:49:01.121 [main] INFO  StepDefinition.Stepdefinition - Driver intialized
+23:49:05.155 [main] INFO  StepDefinition.Stepdefinition - Successfully loaded
+23:49:08.303 [main] INFO  StepDefinition.Stepdefinition - Successfully navigated to page and entered details
+23:49:08.352 [main] INFO  StepDefinition.Stepdefinition - There was a problem
+23:49:48.794 [main] INFO  StepDefinition.Stepdefinition - Driver intialized
+23:49:52.582 [main] INFO  StepDefinition.Stepdefinition - Successfully loaded
+23:49:55.698 [main] INFO  StepDefinition.Stepdefinition - Successfully navigated to page and entered details
+23:49:55.728 [main] INFO  StepDefinition.Stepdefinition - There was a problem
+00:15:49.468 [main] INFO  StepDefinition.Stepdefinition - Driver intialized
+00:15:52.307 [main] INFO  StepDefinition.Stepdefinition - Successfully loaded
+00:15:55.467 [main] INFO  StepDefinition.Stepdefinition - Successfully navigated to page and entered details
+00:15:55.518 [main] INFO  StepDefinition.Stepdefinition - There was a problem
+00:19:41.695 [TestNG] INFO  StepDefinition.Stepdefinition - Driver intialized
+00:19:44.590 [TestNG] INFO  StepDefinition.Stepdefinition - Successfully loaded
+00:19:47.820 [TestNG] INFO  StepDefinition.Stepdefinition - Successfully navigated to page and entered details
+00:19:47.856 [TestNG] INFO  StepDefinition.Stepdefinition - There was a problem
+00:25:56.389 [TestNG] INFO  StepDefinition.Stepdefinition - Driver intialized
+00:25:59.081 [TestNG] INFO  StepDefinition.Stepdefinition - Successfully loaded
+00:26:02.670 [TestNG] INFO  StepDefinition.Stepdefinition - Successfully navigated to page and entered details
+00:26:02.713 [TestNG] INFO  StepDefinition.Stepdefinition - There was a problem
+00:55:45.928 [main] INFO  StepDefinition.Stepdefinition - Driver intialized
+00:55:48.945 [main] INFO  StepDefinition.Stepdefinition - Successfully loaded
+00:55:52.163 [main] INFO  StepDefinition.Stepdefinition - Successfully navigated to page and entered details
+00:55:52.193 [main] INFO  StepDefinition.Stepdefinition - There was a problem
+00:55:52.193 [main] INFO  StepDefinition.Stepdefinition - Error message displayed
+00:55:56.359 [main] INFO  StepDefinition.Stepdefinition - Briwser closed
+01:06:21.835 [main] INFO  StepDefinition.Stepdefinition - Driver intialized
+01:06:24.964 [main] INFO  StepDefinition.Stepdefinition - Successfully loaded
+01:06:28.326 [main] INFO  StepDefinition.Stepdefinition - Successfully navigated to page and entered details
+01:06:28.371 [main] INFO  StepDefinition.Stepdefinition - There was a problem
+01:06:28.371 [main] INFO  StepDefinition.Stepdefinition - Error message displayed
+01:06:28.538 [main] INFO  StepDefinition.Stepdefinition - Briwser closed
+01:07:16.863 [TestNG] INFO  StepDefinition.Stepdefinition - Driver intialized
+01:07:19.648 [TestNG] INFO  StepDefinition.Stepdefinition - Successfully loaded
+01:07:22.926 [TestNG] INFO  StepDefinition.Stepdefinition - Successfully navigated to page and entered details
+01:07:22.971 [TestNG] INFO  StepDefinition.Stepdefinition - There was a problem
+01:07:22.971 [TestNG] INFO  StepDefinition.Stepdefinition - Error message displayed
+01:07:27.213 [TestNG] INFO  StepDefinition.Stepdefinition - Briwser closed
+01:07:28.514 [TestNG] INFO  StepDefinition.Stepdefinition - Driver intialized
+01:07:31.479 [TestNG] INFO  StepDefinition.Stepdefinition - Successfully loaded
+01:07:34.788 [TestNG] INFO  StepDefinition.Stepdefinition - Successfully navigated to page and entered details
+01:07:34.836 [TestNG] INFO  StepDefinition.Stepdefinition - There was a problem
+01:07:34.836 [TestNG] INFO  StepDefinition.Stepdefinition - Error message displayed
+01:07:39.094 [TestNG] INFO  StepDefinition.Stepdefinition - Briwser closed
+01:07:40.316 [TestNG] INFO  StepDefinition.Stepdefinition - Driver intialized
+01:07:43.141 [TestNG] INFO  StepDefinition.Stepdefinition - Successfully loaded
+01:07:46.615 [TestNG] INFO  StepDefinition.Stepdefinition - Successfully navigated to page and entered details
+01:07:46.649 [TestNG] INFO  StepDefinition.Stepdefinition - There was a problem
+01:07:46.649 [TestNG] INFO  StepDefinition.Stepdefinition - Error message displayed
+01:07:50.812 [TestNG] INFO  StepDefinition.Stepdefinition - Briwser closed

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="E2E.Listener"/>
+  </listeners>
+  <test name="Assert(failed)" parallel="tests">
+    <classes>
+      <class name="E2E.Assert_check">
+        <methods>
+          <include name="E2e"/>
+          <include name="teardown"/>
+          <include name="Intialize"/>
+        </methods>
+      </class> <!-- E2E.Assert_check -->
+      <class name="E2E.Login">
+        <methods>
+          <include name="teardown"/>
+          <include name="Intialize"/>
+        </methods>
+      </class> <!-- E2E.Login -->
+    </classes>
+  </test> <!-- Assert(failed) -->
+</suite> <!-- Failed suite [Suite] -->
