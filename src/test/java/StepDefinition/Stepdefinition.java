@@ -36,6 +36,7 @@ public class Stepdefinition extends base {
 		Login_Resuables Login = new Login_Resuables(driver);
 		Login.visible_text().click();
 		Assert.assertTrue(Login.visible_text().isDisplayed());
+log.info("Text is visible");
 	}
 
 	@When("^Username is provided inside signin link as (.+)$")
