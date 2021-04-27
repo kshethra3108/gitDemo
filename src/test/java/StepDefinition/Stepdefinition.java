@@ -61,6 +61,8 @@ log.info("Text is visible");
 	    // Write code here that turns the phrase above into concrete actions
 	   driver.close();
 	   log.info("Briwser closed");
+driver.quit();
+log.info("browser quit");
 	}
 
     
