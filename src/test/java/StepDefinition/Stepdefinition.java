@@ -37,6 +37,7 @@ public class Stepdefinition extends base {
 		Login.visible_text().click();
 		Assert.assertTrue(Login.visible_text().isDisplayed());
 log.info("Text is visible");
+log.info("Text is displayed");
 	}
 
 	@When("^Username is provided inside signin link as (.+)$")
